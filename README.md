@@ -2,6 +2,7 @@
 Como rodar o python no xampp
 
 ******** Rodar o Python no XAMPP ***********
+
   1° passo instalar o XAMPP em C:/
   
   2° Isntalar o python ou no htdocs, para buscar o python no arquivo .py insere #!/python27/python
